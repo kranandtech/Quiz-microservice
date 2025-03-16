@@ -52,4 +52,4 @@ The system consists of the following **microservices**:
 | Question Service  | 8082 |
 
 
-mvn spring-boot:run
+
